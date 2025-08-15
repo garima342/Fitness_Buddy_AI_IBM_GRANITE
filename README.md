@@ -2,7 +2,7 @@
 An AI-powered personal fitness assistant built using IBM Granite Model
 
 Fitness Buddy AI is an intelligent virtual assistant that helps users maintain a healthy lifestyle by providing personalized workout recommendations, diet suggestions, and motivational support.
-Built using the IBM Granite Model on Watsonx.ai, this project delivers a smart, accessible, and adaptable fitness solution without requiring expensive subscriptions or rigid schedules.
+Built using the IBM Granite Model, this project delivers a smart, accessible, and adaptable fitness solution without requiring expensive subscriptions or rigid schedules.
 
 <img width="1906" height="869" alt="Fitness_Buddy_AI" src="https://github.com/user-attachments/assets/3910d141-22e4-425a-a7d6-308eec65b92d" />
 
