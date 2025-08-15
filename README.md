@@ -18,7 +18,7 @@ Google Colab – Model execution and experimentation
 Replit – Development and collaboration environment
 Python – Primary programming language
 
-<img width="1917" height="883" alt="LLM_instructions" src="https://github.com/user-attachments/assets/227f1823-dd94-48e9-9aa0-7c64442ff2ba" />
+<img width="1903" height="858" alt="Screenshot 2025-08-15 104524" src="https://github.com/user-attachments/assets/e4fece3e-688f-4add-8c64-f80d4b716b26" />
 
 # How It Works
 1. User Input – User enters fitness goals, diet preferences, and available equipment
